@@ -1,0 +1,39 @@
+
+body{
+    color: red;
+    font: normal 14px Arial, Helvetica, sans-serif;
+    }
+.black-border{
+    border: 5px solid black;
+}
+
+#green-background{
+    background-color: green;
+}   
+
+ol{
+    color: black;
+}
+
+ul{
+    color: blue
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+}
+
+a:visited{
+    color: red;
+}
+
+.about{
+    color:blueviolet;
+    font: normal 13px Helvetica;
+    
+}
